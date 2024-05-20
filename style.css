@@ -198,19 +198,18 @@ header{
   font-weight: 500;
   color: #dad6e0;
   /* alterado por um caba ai, só mudei o texto de lugar*/
-  background: #222;
-  position: fixed;
-  top: 100px;
+  
+  position:absolute;
+  top: 300px;
 }
 
 .home-text p{
-  font-size: 22px;
+  font-size: 24px;
   color: #9f05ff;
   /* alterado por um caba ai, só mudei o texto de lugar e coloquei fundo*/
-  background: #222;
   margin: 5px 0 10px;
-  position: fixed;
-  top: 143.2px;
+  position: absolute;
+  top: 350px;
 }
 
 .watch-btn{
@@ -223,7 +222,7 @@ header{
 }
 
 .watch-btn .bx{
-  font-size: 21px;
+  font-size: 24px;
   background: #15d1d8;
   width: 40px;
   height: 40px;
@@ -243,7 +242,7 @@ header{
 }
 
 .watch-btn span{
-  font-size: 1rem;
+  font-size: 2rem;
   font-weight: 400;
 }
 
